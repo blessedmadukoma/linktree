@@ -1,0 +1,25 @@
+{
+ "name": "Madukoma Blessed",
+ "avatar": "https://pbs.twimg.com/profile_images/1503489237169156099/aoFp_d0k_400x400.jpg",
+ "links": [
+ {
+  "title": "My Personal Site",
+  "url": "https://mblessed.tech",
+  "image": "https://pbs.twimg.com/profile_images/1503489237169156099/aoFp_d0k_400x400.jpg"
+ },
+ {
+  "title": "Vercel.com",
+  "url": "https://vercel.com"
+ }
+ ],
+ "socials": [
+ {
+  "title": "Twitter",
+  "url": "https://twitter.com/sk1ll3"
+ },
+ {
+  "title": "Github",
+  "url": "https://github.com/blessedmadukoma"
+ }
+ ]
+}
