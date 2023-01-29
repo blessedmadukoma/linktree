@@ -9,7 +9,13 @@
  },
  {
   "title": "Vercel.com",
-  "url": "https://vercel.com"
+  "url": "https://vercel.com",
+  "image": "https://pbs.twimg.com/profile_images/1503489237169156099/aoFp_d0k_400x400.jpg"
+ },
+ {
+  "title": "next.js",
+  "url": "https://nextjs.org",
+  "image": "https://pbs.twimg.com/profile_images/1503489237169156099/aoFp_d0k_400x400.jpg"
  }
  ],
  "socials": [
